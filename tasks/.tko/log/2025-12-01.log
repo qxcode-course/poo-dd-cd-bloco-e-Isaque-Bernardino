@@ -1,0 +1,32 @@
+2025-12-01 18:42:49, MOVE, v:1, k:poo@zoo, mode:DOWN
+2025-12-01 19:17:51, MOVE, v:1, k:poo@zoo, mode:PICK
+2025-12-01 19:17:52, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:100, size:12
+2025-12-01 19:17:57, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:100
+2025-12-01 19:18:01, MOVE, v:1, k:poo@zoo, mode:BACK
+2025-12-01 19:34:16, MOVE, v:1, k:poo@zoo, mode:PICK
+2025-12-01 19:34:17, MOVE, v:1, k:poo@zoo, mode:BACK
+2025-12-01 19:40:29, MOVE, v:1, k:poo@zoo, mode:PICK
+2025-12-01 19:40:30, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0, size:48
+2025-12-01 19:40:37, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0, size:48
+2025-12-01 19:42:14, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0, size:48
+2025-12-01 19:42:46, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0, size:48
+2025-12-01 19:43:38, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0
+2025-12-01 20:10:36, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0, size:49
+2025-12-01 20:10:39, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0
+2025-12-01 20:10:46, EXEC, v:1, k:poo@zoo, mode:FREE
+2025-12-01 20:12:31, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0, size:53
+2025-12-01 20:12:33, EXEC, v:1, k:poo@zoo, mode:FREE
+2025-12-01 20:15:41, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0, size:53
+2025-12-01 20:16:38, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0, size:53
+2025-12-01 20:16:40, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0
+2025-12-01 20:17:20, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0, size:53
+2025-12-01 20:17:49, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0, size:53
+2025-12-01 20:18:03, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0, size:53
+2025-12-01 20:19:34, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0, size:53
+2025-12-01 20:19:40, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0
+2025-12-01 20:20:47, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0, size:51
+2025-12-01 20:21:08, MOVE, v:1, k:poo@zoo, mode:PICK
+2025-12-01 20:21:08, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0, size:51
+2025-12-01 20:21:20, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0, size:51
+2025-12-01 20:21:29, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0
+2025-12-01 20:21:38, MOVE, v:1, k:poo@zoo, mode:BACK
